@@ -1,6 +1,7 @@
 # AI Web Scrapper
 
 A powerful web scraping tool that combines Selenium for data extraction with AI-powered content parsing using Ollama LLM.
+![]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/anshthakur0999/ai-web-scrapper/blob/main/Screenshot%202025-02-15%20235648.png))
 
 ## Features
 
